@@ -28,11 +28,11 @@ This project analyzes hospital patient data to provide actionable insights on pa
 ## 📷 Dashboard Preview
 
 | Page | Screenshot |
-|------|-----------|
-| Main Dashboard | ![Dashboard](Dashboard_Page_1.png) |
-| Patient Details | ![Screenshot](Dashboard_Page_2.png) |
-| Risk Insights | ![Screenshot](Dashboard_Page_3.png) |
-| Department Trends | ![Screenshot](Dashboard_Page_4.png) |
+|------|------------|
+| Main Dashboard | ![Dashboard](Dashboard Screenshot 2025-11-22 070504.png) |
+| Patient Details | ![Patient](healthcare patient Screenshot 2025.png) |
+| Reports | ![Reports](healthcare reportScreenshot 2025.png) |
+| Risk Level | ![Risk](healthcare risklevel Screenshot 2025.png) |
 
 ---
 
