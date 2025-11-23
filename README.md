@@ -29,7 +29,7 @@ This project analyzes hospital patient data to provide actionable insights on pa
 
 | Page | Screenshot |
 |------|------------|
-| Main Dashboard | [Dashboard](Dashboard Screenshot 2025-11-22 070504.png) |
+| Main Dashboard | https://github.com/Abodunrin-Gbolahan/Hospital-Analytics-Dashboard/blob/main/Dashboard%20Screenshot%202025-11-22%20070504.png |
 | Patient Details | ![Patient](healthcare patient Screenshot 2025.png) |
 | Reports | ![Reports](healthcare reportScreenshot 2025.png) |
 | Risk Level | ![Risk](healthcare risklevel Screenshot 2025.png) |
